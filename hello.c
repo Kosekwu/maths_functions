@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main() 
 {
-	printf("hello world");
+	printf("Hello World");
+	printf("Fare thee well");
+	printf("Quicker version");
 	return 0;
 }
