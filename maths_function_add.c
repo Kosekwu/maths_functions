@@ -11,6 +11,7 @@ int main()
 	printf( "Please input two numbers to be added: " );
 	scanf( "%i", &x );
 	scanf( "%i", &y );
+	printf("\n");
 	printf( "The product of your two numbers is %d\n", add( x, y ) );
 		 return 0;
 }
